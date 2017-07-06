@@ -58,8 +58,6 @@ After doing the entire 3rd row:
   4.3 Iterate through and return the first value equal to the minimum (at i)
     A point (ith, row num)
 
-5.
-
 """
 
 
